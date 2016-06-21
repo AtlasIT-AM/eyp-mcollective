@@ -1,6 +1,6 @@
 # mcollective
 
-AtlasIT-AM/eyp-mcollective: [![Build Status](https://travis-ci.org/AtlasIT-AM/eyp-mcollective.png?branch=master)](https://travis-ci.org/AtlasIT-AM/eyp-mcollective)
+**NTTCom-MS/eyp-mcollective**: [![Build Status](https://travis-ci.org/NTTCom-MS/eyp-mcollective.png?branch=master)](https://travis-ci.org/NTTCom-MS/eyp-mcollective)
 
 #### Table of Contents
 
@@ -97,5 +97,7 @@ ActiveMQ on CentOS 6: http://systemadmin.es/2015/06/instalar-mcollective-con-act
 ## Limitations
 
 Tested on:
+* CentOS 5
 * CentOS 6
+* CentOS 7
 * Ubuntu 14.04
